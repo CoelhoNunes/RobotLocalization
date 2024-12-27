@@ -1,6 +1,9 @@
-https://github.com/user-attachments/assets/b475b6cb-a0b3-414d-b747-7b0706783206
+
 
 # Robot Localization Using Particle Filters
+
+https://github.com/user-attachments/assets/0163b4bb-e253-4599-a3c6-bb0ba99fb33c
+
 
 This project implements a **robot localization algorithm** using **particle filters**, a probabilistic approach to tracking the position and orientation of a robot in a 2D environment. The robot navigates within a predefined map, simulates noisy sensor readings, and continuously updates its belief about its position using particle filter-based estimation.
 
