@@ -134,4 +134,4 @@ The robot's true position, particle cloud, and the estimated position (mean of t
 ---
 
 ## **License**
-This project is licensed for educational and research purposes only. Contributions to the codebase credit Coursera’s guided project on robotics and localization techniques.
+This project is for educational and research purposes only. Contributions to the codebase credit but with a twist from Coursera’s guided project on robotics and localization techniques.
